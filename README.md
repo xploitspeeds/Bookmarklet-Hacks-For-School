@@ -1,2 +1,3 @@
-# Bookmarklet-Hacks-FOR-SCHOOL-
-These Bookmarklets will make you the most popular in school. ;)
+# Bookmarklets SCHOOL-
+These Bookmarklets will make you the most popular in your class. ;)
+# remember stay chill.
