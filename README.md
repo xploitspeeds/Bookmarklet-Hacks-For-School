@@ -4,4 +4,4 @@
 * # HOW TO USE!
   Click add new page under bookmarks on your computer and name it whatever you want, Then paste the script into the URL area, Click save and your done!
 
-* # remember stay chill, schools hard.
+* # remember stay chill, school is hard.
