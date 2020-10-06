@@ -1,4 +1,4 @@
-* # Bookmarklets FOR SCHOOL-
+* # Bookmarklets (FOR SCHOOL)
   These Bookmarklets will make you the most popular in your class. ;)
 
 * # HOW TO USE!
